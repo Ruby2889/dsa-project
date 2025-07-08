@@ -42,8 +42,10 @@ Below are the key business questions explored in the case study, along with how 
 
 7.	How Many Products Have a Discount of 50% or More?
 
-➤ Created a new column: =IF([@[discount_percentage]]>=0.5, "Yes", "No")
-
+➤ Created a new column: 
+```
+=IF([@[discount_percentage]]>=0.5, "Yes", "No")
+```
 ➤ Used COUNTIF() to count "Yes" values.
 
 8.	Distribution of Product Ratings

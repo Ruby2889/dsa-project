@@ -6,7 +6,7 @@ This project is part of an e-commerce analytics case study for RetailTech Insigh
 Authors
 ⦁	@tobilobasunday
 
-##Documentation
+## Documentation
 
 Dataset Overview
 Source: Simulated Amazon product data
